@@ -24,7 +24,7 @@
 			%> <%@include file="page/sale_lookup_product.jsp" %> <%
 			break;
 		case "sale_lookup_by_registration":
-			%> <%@include file="page/sale_lookup_by_registration.jsp" %> <%
+			%> <%@include file="page/sale_lookup_by_cagistration.jsp" %> <%
 			break;
 		default:
 			%> <%@include file="static/index.jsp" %> <%
