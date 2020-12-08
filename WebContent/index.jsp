@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 	<%@include file="static/he.jsp" %>
 	<%@include file="static/nav.jsp" %>
 	
@@ -34,5 +35,8 @@
 	%>
 	
 	<%@include file="static/fo.jsp" %>
+=======
+
+>>>>>>> parent of 8c7aeac... 2020 12 08
 </body>
 </html>

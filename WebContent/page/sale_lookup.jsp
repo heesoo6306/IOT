@@ -1,4 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
+<<<<<<< HEAD
 	pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*"%>
 
@@ -46,3 +47,16 @@
 	}
 	%>
 </table>
+=======
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>
+>>>>>>> parent of 8c7aeac... 2020 12 08
