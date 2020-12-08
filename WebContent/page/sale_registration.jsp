@@ -39,8 +39,9 @@
 			<td><input type="date" name="puchase_date"></td>
 		</tr>
 		<tr>
-			<td colspan="2"><input type="submit" value="등록하기"> <input
-				type="button" value="다시쓰기" onclick="reset_form()"></td>
+			<td colspan="2">
+			<input type="button" value="등록하기">
+			<input type="button" value="다시쓰기" onclick="reset_form()"></td>
 		</tr>
 	</table>
 </form>
