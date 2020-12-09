@@ -51,15 +51,18 @@
 function submit_form() {
 	if (document.action_form.amount.value === "") {
 		alert("수량을 입력해 주세요");
+		document.action_form.amount.focus();
 		return;
 	}
 	
 	if (document.action_form.purchase_date.value === "") {
 		alert("날짜를 입력해 주세요");
+		document.action_form.amount.focus();
 		return;
 	}
 	
 	if (document.action_form.product_id.selectedIndex <= 0) {
+		document.action_form.amount.focus();
 		alert("판매 상품을 선택하여 주세요");
 		return;
 	}
